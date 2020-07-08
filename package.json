@@ -1,7 +1,7 @@
 {
   "name": "chartjs-plugin-annotation",
   "description": "Annotations for Chart.js",
-  "version": "0.5.7",
+  "version": "0.5.8-0",
   "author": "Evert Timberg <evert.timberg@gmail.com>",
   "license": "MIT",
   "main": "src/index.js",
@@ -18,7 +18,7 @@
     "chart.js": "^2.4.0",
     "eslint-config-chartjs": "^0.1.0",
     "eslint-plugin-html": "^5.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-eslint": "^5.0.0",
     "gulp-htmllint": "^0.0.16",
